@@ -1,0 +1,98 @@
+<!-- 
+
+    MSIN 617 Web and Application Development
+    Spring 2022 Final Project
+    Developed By Nury Amanmadov  
+    
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Touro Tech Academy - Bootcamps</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>    
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="shortcut icon"  href="images/favicon.ico">
+</head>
+<body>
+
+    <!-- Header section -->
+    <section class="about-header">
+        <nav>
+            <a href="index.html"><img src="images/logo1.png" alt="logo"></a>
+            <div class="nav-links" id="navLinks">
+                <i class="fa fa-times" onclick="hideMenu()"></i>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="courses.html">Courses</a></li>
+                    <li><a href="blog.html">Blog</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+            <i class="fa fa-bars" onclick="showMenu()"></i>
+        </nav>
+        <h1>About Us</h1>
+    </section>
+    <!-- End of Header section -->
+
+    <!-- AboutUs section -->
+    <section class="about-us">
+        <div class="row">
+            <div class="about-col">
+                <h1>We are Touro</h1>
+                <p style="text-align: justify;">Current professionals, as well as newcomers to the field, are given the tools to upgrade and fine-tune their technology skills. 
+                Touro Tech Academy members are committed to teaching excellence, sharing in the classroom and online a comprehensive and engaging curriculum accompanied by their years of hands-on experience and real-world knowledge. <br></p>
+                <a href="courses.html" class="hero-btn b-btn">Explore Now</a>
+            </div>
+            <div class="about-col">
+                <img src="images/about.jpg" alt="about us image">
+            </div>
+        </div>
+    </section>
+    <!-- End of AboutUs section -->
+
+    <hr>
+
+    <!-- Footer section -->
+    <section class="footer">
+        <h4>About Us</h4>
+        <p>
+            320 West 31st Street (at 8th Avenue) New York, NY 10001 USA
+        <br>
+            Touro University Graduate School of Technology 
+            <br>Copyright © 2022. All rights reserved.
+        </p>
+        <div class="icons">
+            <i class="fa fa-facebook" href="https://www.facebook.com/tourogst/"></i>
+            <i class="fa fa-twitter" href="https://twitter.com/tourogst"></i>
+            <i class="fa fa-linkedin" href="https://www.linkedin.com/school/tourogst/"></i>
+            <i class="fa fa-instagram" href="https://www.instagram.com/tourogst/"></i>
+        </div>
+    </section>
+    <!-- End of Footer section -->
+
+
+
+<!-- javascript for toggle menu -->
+<script>
+    const navLinks = document.getElementById("navLinks");
+
+    function showMenu(){
+        navLinks.style.right = "0";
+    }
+
+    function hideMenu(){
+        navLinks.style.right = "-200px";
+    }
+
+</script>
+</body>
+</html>
