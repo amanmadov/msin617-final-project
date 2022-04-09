@@ -184,6 +184,10 @@ nav .fa{
     padding-top: 100px;
 }
 
+.courses p{
+    color: #222;
+}
+
 .row{
     margin-top: 5%;
     display: flex;
@@ -192,7 +196,7 @@ nav .fa{
 
 .course-col{
     flex-basis: 31%;
-    background: #f1c100;
+    background: #74acf1;
     border-radius: 10px;
     margin-bottom: 5%;
     padding: 20px 12px;
@@ -289,7 +293,7 @@ h3{
     flex-basis: 31%;
     border-radius: 10px;
     margin-bottom: 5%;
-    text-align: left;
+    text-align: center;
 }
 
 .facilities-col img{
@@ -304,7 +308,7 @@ h3{
 .facilities-col h3{
     margin-top: 16px;
     margin-bottom: 15px;
-    text-align: left;
+    text-align: center;
 }
 
 /*#endregion */
@@ -365,7 +369,7 @@ h3{
 .cta{
     margin: 100px auto;
     width: 80%;
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../images/banner2.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../images/comp.jpg);
     background-position: center;
     background-size: cover;
     border-radius: 10px;
