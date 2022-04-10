@@ -12,7 +12,7 @@
   <p align="center">
     Simple responsive multipage website for virtual Touro Tech Academy
     <br/>
-    <a href="https://github.com/amanmadov/msin617-final-project/index.html">View Demo</a>
+    <a href="https://amanmadov.github.io/msin617-final-project/index.html">View Demo</a>
   </p>
 </div>
 
