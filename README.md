@@ -32,11 +32,9 @@ Since coding bootcamps are the most popular way of learning software development
 - No CSS framework is used throughout the project.
 - Every CSS rule and HTML sections for different parts of the website is commented in detail. 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Website Pages</summary>
+  <summary>Pages</summary>
   <ol>
     <li><a href="https://amanmadov.github.io/msin617-final-project/index.html" target="_blank">Home</a></li>
     <li><a href="https://amanmadov.github.io/msin617-final-project/about.html" target="_blank">About</a></li>
