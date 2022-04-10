@@ -190,6 +190,12 @@ nav .fa{
     padding-top: 100px;
 }
 
+.courses h2{
+    font-size: 24px;
+    font-weight: 600;
+    color: #0057a5;
+}
+
 .courses p{
     color: #222;
 }
@@ -295,6 +301,12 @@ h3{
     padding-top: 100px;
 }
 
+.facilities h2{
+    font-size: 24px;
+    font-weight: 600;
+    color: #0057a5;
+}
+
 .facilities-col{
     flex-basis: 31%;
     border-radius: 10px;
@@ -327,6 +339,12 @@ h3{
     margin: auto;
     padding-top:100px;
     text-align: center;
+}
+
+.testimonials h2{
+    font-size: 24px;
+    font-weight: 600;
+    color: #0057a5;
 }
 
 .testimonial-col{
@@ -383,7 +401,8 @@ h3{
     padding: 100px 0;
 }
 
-.cta h1{
+.cta h2{
+    font-size: 24px;
     color: #fff;
     margin-bottom: 40px;
     padding: 0;
