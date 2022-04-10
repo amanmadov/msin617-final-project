@@ -24,10 +24,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Since coding bootcamps are the most popular way of learning software development these days, I tried to simulate a coding bootcamp for Touro University. 
+Since coding bootcamps are the most popular way of learning software development these days, I have tried to simulate a coding bootcamp academy for Touro University. 
 
 - I have tried to follow responsive design guidelines for the project and tested all pages with different devices (both desktop and mobile). 
-- Color codes are taken from Touro's GST website. 
+- Color codes and the combinations are taken from Touro's GST website. 
 - Some of the text content is copied from Touro's GST website and Udacity's website. 
 - Images are taken from Pexels.com. 
 - Only font-awesome icons and Google's 'Poppins' font is used as an external source.
