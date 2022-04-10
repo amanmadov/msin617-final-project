@@ -7,11 +7,12 @@
     <img src="images/logo1.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Touro University MSIN 617 Final project</h3>
+  <h2 align="center">Touro University  Graduate School of Technology</h2>
+  <h3 align="center">MSIN 617 Web and Application Development Course Final Project</h3>
 
   <p align="center">
     Simple responsive multipage website for virtual Touro Tech Academy
-    <br/>
+    <br/> <br/>
     <a href="https://amanmadov.github.io/msin617-final-project/index.html">View Demo</a>
   </p>
 </div>
@@ -45,6 +46,7 @@ Since coding bootcamps are the most popular way of learning software development
   </ol>
 </details>
 
+<br/>
 
 <!-- CONTACT -->
 ## Contact
