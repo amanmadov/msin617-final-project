@@ -56,5 +56,3 @@ Nury Amanmadov - [@amanmadov](https://twitter.com/amanmadov) - amanmadov@gmail.c
 Project Link: [https://github.com/amanmadov/msin617-final-project](https://github.com/amanmadov/msin617-final-project)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
