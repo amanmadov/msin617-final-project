@@ -17,11 +17,11 @@
 </div>
 
 
+![Product Name Screen Shot](https://amanmadov.github.io/msin617-final-project/images/screenshot.png)
+
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-![Image](https://amanmadov.github.io/msin617-final-project/images/screenshot.png)
-[![Product Name Screen Shot][product-screenshot]](https://amanmadov.github.io/msin617-final-project/images/screenshot.png)
 
 Since coding bootcamps are the most popular way of learning software development these days, I tried to simulate a coding bootcamp for Touro University. 
 
