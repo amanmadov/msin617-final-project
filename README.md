@@ -30,7 +30,7 @@ Since coding bootcamps are the most popular way of learning software development
 - Color codes and the combinations are taken from Touro's GST website. 
 - Some of the text content is copied from Touro's GST website and Udacity's website. 
 - Images are taken from Pexels.com. 
-- Only font-awesome icons and Google's 'Poppins' font is used as an external source.
+- Only font-awesome icons and Google's 'Poppins' font is used as an external resource.
 - No CSS framework is used throughout the project.
 - Every CSS rule and HTML sections for different parts of the website is commented in detail. 
 
