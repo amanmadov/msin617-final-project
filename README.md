@@ -7,7 +7,7 @@
     <img src="images/logo1.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h2 align="center">Touro University  Graduate School of Technology</h2>
+  <h2 align="center">Touro University Graduate School of Technology</h2>
   <h3 align="center">MSIN 617 Web and Application Development Course Final Project</h3>
 
   <p align="center">
@@ -26,13 +26,13 @@
 
 Since coding bootcamps are the most popular way of learning software development these days, I have tried to simulate a coding bootcamp academy for Touro University. 
 
-- I have tried to follow responsive design guidelines for the project and tested all pages with different devices (both desktop and mobile). 
-- Color codes and the combinations are taken from Touro's GST website. 
-- Some of the text content is copied from Touro's GST website and Udacity's website. 
-- Images are taken from Pexels.com. 
-- Only font-awesome icons and Google's 'Poppins' font is used as an external resource.
-- No CSS framework is used throughout the project.
-- Every CSS rule and HTML sections for different parts of the website is commented in detail. 
+- [x] Tried to follow `responsive design guidelines` for the project and tested all pages with different devices. 
+- [x] Color codes and the combinations are taken from `Touro University GST` website. 
+- [x] Some of the text content is copied from `Touro University GST` website and vUdacity` website. 
+- [x] Images are taken from `pexels.com`. 
+- [x] Only `font-awesome icons` and Google's `Poppins` text font was used as an external resource.
+- [x] No CSS framework is used throughout the project.
+- [x] Every CSS rule and HTML sections for different parts of the website is commented in detail. 
 
 <!-- TABLE OF CONTENTS -->
 <details>
