@@ -49,7 +49,7 @@ Since coding bootcamps are the most popular way of learning software development
 <br/>
 
 ## Technologies Used
- - Visual Studio Chrome Version: 1.66.1
+ - Visual Studio Code Version: 1.66.1
  - Google Chrome Version 100.0.4896.88
 
 <br/>
