@@ -28,10 +28,10 @@ Since coding bootcamps are the most popular way of learning software development
 
 - [x] Tried to follow `responsive design guidelines` for the project and tested all pages with different devices. 
 - [x] Color codes and the combinations are taken from `Touro University GST` website. 
-- [x] Some of the text content is copied from `Touro University GST` website and vUdacity` website. 
+- [x] Some of the text content is copied from `Touro University GST` website and `Udacity` website. 
 - [x] Images are taken from `pexels.com`. 
 - [x] Only `font-awesome icons` and Google's `Poppins` text font was used as an external resource.
-- [x] No CSS framework is used throughout the project.
+- [x] No any `CSS framework` is used throughout the project.
 - [x] Every CSS rule and HTML sections for different parts of the website is commented in detail. 
 
 <!-- TABLE OF CONTENTS -->
