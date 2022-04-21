@@ -55,11 +55,6 @@ Since coding bootcamps are the most popular way of learning software development
 
 <br/>
 
-<div align="center">
-  <h2 align="center">Mobile View of the Website</h2>
-  <img src="images/mobile-view.gif" alt="Logo">
-</div>
-
 
 <!-- CONTACT -->
 ## Contact
