@@ -55,6 +55,24 @@ Since coding bootcamps are the most popular way of learning software development
 
 <br/>
 
+## Mobile View
+
+<p align="center">
+  <img alt="Light" src="images/mob1.png" width="25%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="images/mob2.png" width="25%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="images/mob3.png" width="25%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="images/mob5.png" width="25%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="images/mob4.png" width="25%">
+</p>
+
+
+
+<br/>
+
 
 <!-- CONTACT -->
 ## Contact
