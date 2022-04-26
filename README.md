@@ -24,7 +24,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Since coding bootcamps are the most popular way of learning software development these days, I have tried to simulate a coding bootcamp academy for Touro University. 
+Since coding bootcamps are the most popular way of learning software development these days, I have tried to simulate a coding bootcamp academy website for Touro University. 
 
 - [x] Tried to follow `responsive design guidelines` for the project and tested all pages with different devices. 
 - [x] Color codes and the combinations are taken from `Touro University GST` website. 
