@@ -510,6 +510,10 @@ h3{
     padding: 60px 0;
 }
 
+.blog-content ol li{
+    padding: 10px;
+}
+
 .blog-left{
     flex-basis: 65%;
 }
@@ -681,3 +685,128 @@ h3{
     }
 }
 /*#endregion */
+
+
+/*#region style rules for  Scroll Down button */
+
+.hero{
+    padding-top: 300px;
+}
+
+.scroll-down{
+    position: absolute;
+    bottom: 5rem;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.mouse{
+    width: 1.5rem;
+    height: 3rem;
+    border: 2px solid #fff;
+    border-radius: 2rem;
+    margin-bottom: .5rem;
+    display: flex;
+}
+
+.mouse span{
+    width: 1rem;
+    height: 1rem;
+    background-color: #fff;
+    display: block;
+    border-radius: 50%;
+    margin: auto;
+    animation: move-wheel 1s linear infinite;
+}
+
+.arrow span{
+    display: block;
+    width: .75rem;
+    height: .75rem;
+    border: 2px solid transparent;
+    border-right-color:#fff;
+    border-bottom-color:#fff;
+    transform: rotate(45deg);
+    animation: arrow-down .5s alternate infinite;
+}
+
+@keyframes move-wheel{
+    0%{
+        opacity: 0;
+        transform: translateY(-1rem);
+    }
+    100%{
+        opacity: 1;
+        transform: translateY(1rem);
+    }
+}
+
+@keyframes arrow-down{
+    0%{
+        opacity: 0;
+    }
+    25%{
+        opacity: .25;
+    }
+    50%{
+        opacity: .50;
+    }
+    75%{
+        opacity: .75;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+
+
+/*#endregion */
+
+
+/*#region style rules for tablet view */ 
+
+@media only screen and (min-width : 768px) and (max-width : 1024px) and (orientation : portrait) {
+
+    .header{
+        min-height: 70vh;
+    }
+
+    .text-box{
+        top: 30%
+    }
+
+    .text-box h1 {
+        font-size: 42px;
+    }
+
+    .nav-links {
+        text-align: center;
+    }
+
+    .about-header .nav-links {
+        text-align: center;
+    }
+
+    .courses, .facilities, .testimonials, .cta {
+        width: 70%;
+    }
+
+    .courses .row{
+        flex-direction: column;
+    }
+
+    .facilities .row{
+        flex-direction: column;
+    }
+
+    .testimonials .row{
+        flex-direction: column;
+    } 
+}
+
+/*#endregion */
+
+

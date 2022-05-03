@@ -1,0 +1,149 @@
+<!-- 
+
+    MSIN 617 Web and Application Development
+    Spring 2022 Final Project
+    Developed By Nury Amanmadov  
+    
+-->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="Touro University GST MSIN 617 Final Project, Virtual Touro Tech Academy">
+    <meta name="keywords" content="html, css, touro university, msin 617, web and app development">
+    <meta name="author" content="Nury Amanmadov">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Touro Tech Academy - CSS</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>    
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="shortcut icon"  href="images/favicon.ico">
+</head>
+<body>
+
+    <!-- Header section -->
+    <div class="about-header">
+        <nav>
+            <a href="https://gst.touro.edu/index.php"><img src="images/logo1.png" alt="logo"></a>
+            <div class="nav-links" id="navLinks">
+                <i class="fa fa-times" onclick="hideMenu()"></i>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="courses.html">Courses</a></li>
+                    <li><a href="blog.html">Blog</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+            <i class="fa fa-bars" onclick="showMenu()"></i>
+        </nav>
+        <h1>Why You Should Learn CSS</h1>
+    </div>
+    <!-- End of Header section -->
+
+    <!-- AboutUs section -->
+    <section class="blog-content">
+        <div class="row">
+            <div class="blog-left" style="flex-basis: 100%;">
+                <h2>CSS</h2>
+                <p>
+                    If you’re thinking about getting into web development, you’ve probably read about CSS while doing your background research. Not only is it a basic requirement if you want to become a Web Developer, but you’ll use it daily on every webpage you work on in this field. <br>
+                    CSS is also useful for people who may never build a web application. Whether you’re pursuing a career in web development or not, read on to learn more about what CSS is, what it’s used for, and why it could be beneficial for you to learn it. We’ll also show you how to get started learning CSS. It's a simple language to learn, whether or not you have knowledge of programming languages.
+                </p><br>
+                <h2>What is CSS?</h2>
+                <p>
+                    CSS stands for Cascading Style Sheets. It’s a style sheet or presentational language that’s used to layout, format, and style documents that are written in HTML. Without CSS style sheets, every webpage you visit would look the same and use the default styles that your web browser sets. So, CSS is used to give webpages a unique look.
+                    <br>
+                    Similar to HTML, CSS is not a standard "programming language." You don't need to know about loops, variables, and other concepts you might pick up in a computer science course. Instead, CSS targets specific elements in an HTML file based on their attributes and applies a custom style. It can change the color and size of a heading, add animated effects, apply background images, make pages look great in both desktop and mobile browsers, and more.
+                </p>
+                <h2>Why learn CSS?</h2>
+                <p>
+                    CSS is considered to be one of the easiest languages to learn. Its basic rules and syntax are simple, and you could start styling web pages after a single day of learning (if you’re already familiar with HTML). It may take longer to learn its more advanced features, but once you do, the same rules apply.
+                    <br>
+                    While CSS is a relatively simple language, its capabilities have evolved over the years. Here are some of the most popular ways CSS is used.
+                </p> <br><br>
+
+                <ol style="padding-left: 20px">
+                    <li>
+                        <p>
+                            To build beautiful websites
+                            While it’s true you can build a complete website with only HTML, why would you want to? Without CSS, your website will look like any other site with black text, a white background, and blue links that turn purple after you click them. With CSS, you can build a website that fits your brand, is designed to portray a certain look and feel, and brings visitors back.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            To customize content management systems
+                            WordPress, Drupal, and other content management systems make it easy for a non-technical person to publish articles and blog posts quickly. But eventually, you may want to customize the way the whole site or a single post looks. Knowing CSS will give you the ability to do just that without hiring a Web Developer.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            To add animation to webpages
+                            Who says you have to know a programming language to add dynamic effects to a webpage? Modern CSS has a lot of animation features that don't require you to know JavaScript, and some of the effects you’ll find in CSS are even more advanced than those in JavaScript.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            To make websites mobile-friendly
+                            In the past, all you had to worry about was if your site looked good in a desktop web browser. But that’s not the case anymore. Most people visit websites on their mobile devices, so sites need to look good on both desktops and mobile devices. With CSS, you can build webpages that do double duty.
+                        </p>
+                    </li>
+                </ol>
+                
+
+                <h2>How to learn CSS</h2>
+                <p>
+                    Since there are many aspects of CSS that make it an easy language to learn, you can learn CSS by yourself, on your own schedule, anywhere you have an Internet connection. And it doesn't have to be boring, especially since you can start making changes to webpages relatively quickly, or take time away from your busy schedule.
+                </p>
+                
+                <br><br>
+
+                <img src="images/slider-images/css-image.png" alt="blog image">
+                <br>
+            </div>
+        </div>
+    </section>
+    <!-- End of AboutUs section -->
+
+    <hr>
+
+    <!-- Footer section -->
+    <section class="footer">
+        <h4>About Us</h4>
+        <p>
+            320 West 31st Street (at 8th Avenue) New York, NY 10001 USA
+        <br>
+            Touro University Graduate School of Technology 
+            <br>Copyright © 2022. All rights reserved.
+        </p>
+        <div class="icons">
+            <i class="fa fa-facebook" onclick="window.open('https://www.facebook.com/tourogst')" style="cursor:pointer;"></i>
+            <i class="fa fa-twitter" onclick="window.open('https://twitter.com/tourogst')" style="cursor:pointer;"></i>
+            <i class="fa fa-linkedin" onclick="window.open('https://www.linkedin.com/school/tourogst')" style="cursor:pointer;"></i>
+            <i class="fa fa-instagram" onclick="window.open('https://www.instagram.com/tourogst')" style="cursor:pointer;"></i>
+        </div>
+    </section>
+    <!-- End of Footer section -->
+
+<!-- javascript for toggle menu -->
+<script>
+    const navLinks = document.getElementById("navLinks");
+
+    function showMenu(){
+        navLinks.style.right = "0";
+        //navLinks.style.display = '';
+    }
+
+    function hideMenu(){
+        navLinks.style.right = "-200px";
+        //navLinks.style.display = 'none';
+    }
+
+</script>
+</body>
+</html>
