@@ -762,3 +762,50 @@ h3{
 /*#endregion */
 
 
+/*#region style rules for tablet view */
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+
+    .header{
+        /* width: 70%; */
+        min-height: 70vh;
+    }
+    .text-box{
+        top: 30%
+    }
+    .text-box h1 {
+        font-size: 42px;
+    }
+    .nav-links {
+        text-align: center;
+    }
+
+    .about-header .nav-links {
+        text-align: center;
+    }
+
+
+    .courses, .facilities, .testimonials, .cta {
+        width: 70%;
+    }
+
+    .courses .row{
+        flex-direction: column;
+    }
+    .facilities .row{
+        flex-direction: column;
+    }
+
+    .testimonials .row{
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+
+    
+
+}
+
+/*#endregion */
+
+
