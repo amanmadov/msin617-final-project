@@ -510,6 +510,10 @@ h3{
     padding: 60px 0;
 }
 
+.blog-content ol li{
+    padding: 10px;
+}
+
 .blog-left{
     flex-basis: 65%;
 }
