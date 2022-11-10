@@ -17,9 +17,9 @@
   </p>
 </div>
 
-<div align="center">
+
 ![Product Name Screen Shot](https://amanmadov.github.io/msin617-final-project/images/screenshot.png)
-</div>
+
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
