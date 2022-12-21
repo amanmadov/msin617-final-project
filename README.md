@@ -3,9 +3,14 @@
 <!-- PROJECT LOGO -->
 <br/>
 <div align="center">
+
+  <!-- 
   <a href="https://github.com/amanmadov/msin617-final-project">
     <img src="images/touro-university-logo-blue.png" style="max-width: 20%;" alt="Touro University Logo">
-  </a>
+  </a> 
+  -->
+
+  <img src="images/touro-university-logo-blue.png" width=120 alt="Touro University Logo">
 
   <h2 align="center">Touro University Graduate School of Technology</h2>
   <h3 align="center">MSIN 617 Web and Application Development Course Final Project</h3>
