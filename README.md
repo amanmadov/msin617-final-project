@@ -12,7 +12,7 @@
 
   <img src="images/touro-university-logo-blue.png" width=120 alt="Touro University Logo">
 
-  <h2 align="center">Touro University Graduate School of Technology</h2>
+  <h2 align="center">Graduate School of Technology</h2>
   <h3 align="center">MSIN 617 Web and Application Development Course Final Project</h3>
 
   <p align="center">
