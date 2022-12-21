@@ -1,6 +1,7 @@
 
 /* 
 
+    Touro University GST
     MSIN 617 Web and Application Development
     Spring 2022 Final Project
     Developed By Nury Amanmadov 
@@ -17,6 +18,10 @@
     margin: 0;
     padding: 0;
     font-family: 'Poppins', sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
 }
 
 .header{
