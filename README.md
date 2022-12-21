@@ -4,7 +4,7 @@
 <br/>
 <div align="center">
   <a href="https://github.com/amanmadov/msin617-final-project">
-    <img src="images/touro-university-logo-blue.png" alt="Touro University Logo">
+    <img src="images/touro-university-logo-blue.png" style="max-width: 20%;" alt="Touro University Logo">
   </a>
 
   <h2 align="center">Touro University Graduate School of Technology</h2>
