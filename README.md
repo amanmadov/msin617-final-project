@@ -11,7 +11,7 @@
 
   <div align="center">
     <img src="images/top.png" alt="header image">
-    <h2 align="center">Graduate School of Technology <br>MSIN 617-Web and Application Development Course Final Project</h2>
+    <h3 align="center">Graduate School of Technology <br>MSIN 617-Web and Application Development Course Final Project</h3>
     <br>
   </div>
 
