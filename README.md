@@ -63,9 +63,10 @@ Since coding bootcamps are the most popular way of learning software development
 ## Mobile View
 
 <p align="center">
-  <img alt="Light" src="images/mob1.png" width="25%">
-  <img alt="Dark" src="images/mob2.png" width="25%">
-  <img alt="Dark" src="images/mob4.png" width="25%">
+  <img alt="mobile view1" src="images/mob1.png" width="22%">
+  <img alt="mobile view2" src="images/mob2.png" width="22%">
+  <img alt="mobile view3" src="images/mob3.png" width="22%">
+  <img alt="mobile view4" src="images/mob4.png" width="22%">
 </p>
 
 
