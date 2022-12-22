@@ -1,8 +1,7 @@
-<p align="right"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></p>
+<!-- <p align="right"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></p> -->
 
 <!-- PROJECT LOGO -->
 <br/>
-<div align="center">
 
   <!-- 
   <a href="https://github.com/amanmadov/msin617-final-project">
@@ -10,17 +9,17 @@
   </a> 
   -->
 
-  <img src="images/touro-university-logo-blue.png" width=120 alt="Touro University Logo">
-
-  <h2 align="center">Graduate School of Technology</h2>
-  <h3 align="center">MSIN 617 Web and Application Development Course Final Project</h3>
+  <div align="center">
+    <img src="images/top.png" alt="header image">
+    <h2 align="center">Graduate School of Technology <br>MSIN 617-Web and Application Development Course Final Project</h2>
+    <br>
+  </div>
 
   <p align="center">
     Simple responsive multipage website for virtual Touro Tech Academy
     <br/> <br/>
     <a href="https://amanmadov.github.io/msin617-final-project/index.html">View Demo</a>
   </p>
-</div>
 
 
 ![Product Name Screen Shot](https://amanmadov.github.io/msin617-final-project/images/screenshot.png)
@@ -81,4 +80,8 @@ Nury Amanmadov - [@amanmadov](https://twitter.com/amanmadov) - amanmadov@gmail.c
 
 Project Link: [https://github.com/amanmadov/msin617-final-project](https://github.com/amanmadov/msin617-final-project)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#top">back to top</a>)</p> -->
+<div align="center">
+    <img src="images/footer.png" alt="footer image">
+</div>
+
